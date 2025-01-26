@@ -6,6 +6,8 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=teuslp&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuslp)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do dia a dia
 
 <div style="display: inline_block"></br>
