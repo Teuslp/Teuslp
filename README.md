@@ -27,9 +27,3 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo frequentement
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
----
-
-### 🎯 Objetivos e interesses  
-- 📚 Aprofundar conhecimentos em tecnologias modernas.  
-- 💼 Construir projetos impactantes e contribuir com a comunidade.  
-- 🚀 Continuar explorando e evoluindo no mundo do desenvolvimento!  
