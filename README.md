@@ -49,7 +49,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
+<h3 align="center">Tecnologias</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
