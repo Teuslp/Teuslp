@@ -1,6 +1,6 @@
 <div align="center">
-  <img
-    width="100%"
+  <img 
+    width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&theme=tokyonight"
   />
 </div>
@@ -10,7 +10,7 @@
 <p align="center">
   Olá! Eu sou o <strong>Mateus Lima</strong> <br />
   Desenvolvedor <strong>Full Stack</strong> formado em Análise e Desenvolvimento de Sistemas. <br />
-  Trabalho no desenvolvimento de aplicações modernas, focando em desempenho,
+  Trabalho no desenvolvimento de aplicações modernas, focando em desempenho, 
   escalabilidade e boas práticas de software.
 </p>
 
@@ -18,31 +18,31 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateuslima2005/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       height="26"
-      alt="LinkedIn"
+      alt="LinkedIn" 
     />
   </a>
   <a href="https://discord.gg/7Pqc43DG" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    <img 
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
       height="26"
-      alt="Discord"
+      alt="Discord" 
     />
   </a>
   <a href="https://www.instagram.com/mateusl.dev" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
       height="26"
-      alt="Instagram"
+      alt="Instagram" 
     />
   </a>
   <a href="mailto:mateuszinlima7@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       height="26"
-      alt="Gmail"
+      alt="Gmail" 
     />
   </a>
 </div>
@@ -60,22 +60,22 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
 </div>
 
 ---
 
-<h3 align="center">Portfólio: mateusdev-sigma.vercel.app</h3>
+<h3 align="center">
+  🌐 <a href="https://mateusdev-sigma.vercel.app" target="_blank">Conheça meu Portfólio</a>
+</h3>
 
 <div align="center">
-  <img
-    width="100%"
+  <img 
+    width="100%" 
     src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&theme=tokyonight"
   />
 </div>
