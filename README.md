@@ -15,7 +15,7 @@ I work on developing modern applications focused on performance, scalability, an
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
-  <a href="teuzlp" target="_blank">
+  <a href="https://discord.com/users/teuzlp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
@@ -79,19 +79,9 @@ I work on developing modern applications focused on performance, scalability, an
 ###
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teuslp&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-###
-
-<h2 align="center">Contribution Graph</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teuslp&theme=tokyo-night&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuslp&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ###
