@@ -91,7 +91,7 @@ I work on developing modern applications focused on performance, scalability, an
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teuslp&theme=tokyo-night&hide_border=true" />
 </div>
 
 ###
