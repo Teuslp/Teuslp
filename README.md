@@ -79,12 +79,21 @@ I work on developing modern applications focused on performance, scalability, an
 ###
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=teuslp&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teuslp&theme=tokyonight" />
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuslp&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teuslp&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teuslp&theme=tokyonight" />
+
+<br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teuslp&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teuslp&theme=tokyonight&utcOffset=-3" />
 </div>
 
-###
 
 <h2 align="center">Snake Eating Contributions</h2>
 
